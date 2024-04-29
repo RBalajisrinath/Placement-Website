@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.container {
+    position: relative;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 20px; 
+  }
+  
+  .text-above-image {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .text-above-image h1,
+  .text-above-image p {
+    margin: 10px 0; 
+  }
+  img {
+    display: block;
+    margin: auto; 
+  }  

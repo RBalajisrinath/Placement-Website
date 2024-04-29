@@ -1,0 +1,31 @@
+.container-fluid {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.heading {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.full_pge {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+}
